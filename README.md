@@ -8,8 +8,8 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ## Links
 
-- Solution URL: [https://github.com/alaaadel/qr-code-component](https://github.com/alaaadel/qr-code-component)
-- Live Site URL: [https://alaaadel.github.io/qr-code-component](https://alaaadel.github.io/qr-code-component)
+- Solution URL: [https://github.com/alaaadelsaudi/QR-Code](https://github.com/alaaadelsaudi/QR-Code)
+- Live Site URL: [https://alaaadelsaudi.github.io/QR-Code/](https://alaaadelsaudi.github.io/QR-Code/)
 
 ## My process
 
